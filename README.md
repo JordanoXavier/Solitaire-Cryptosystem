@@ -1,5 +1,11 @@
 # Solitaire is a cryptosystem designed by Bruce Schneier for writer Neal Stephenson to use in his book Cryptonomicon. This system is manual, the code is a C implementation of it.
 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/112017191/217660340-b350ca52-495a-4163-a4c7-fbea0b0b0ade.png" width="700px" />
+</div> 
+
+
 ## Encryption:
 1. remove non-alphabetic characters (spaces, punctuation, numbers), leaving only the letters (a-z) of the message (plaintext)
 2. convert each letter to its numeric value (a=1, b=2, ..., z=26)
